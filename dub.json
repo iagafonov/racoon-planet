@@ -1,0 +1,10 @@
+{
+	"name": "racoon-planet",
+	"description": "racoon-planet server application.",
+	"copyright": "Copyright © 2015, Ivan Agafonov",
+	"authors": ["Ivan Agafonov"],
+	"dependencies": {
+		"vibe-d": "~>0.7.23"
+	},
+	"versions": ["VibeDefaultMain"]
+}

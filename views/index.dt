@@ -1,0 +1,21 @@
+doctype html
+html
+    head
+        title
+        meta(http-equiv="Content-Type", content="text/html; charset=UTF-8")
+        meta(charset="utf-8")
+        :css
+            body, html {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                overflow: hidden;
+                font-family: monospace;
+            }
+    body
+        script(src='js/gl-matrix-min.js')
+        script(src='js/utils.js')
+        script(src='js/glu.js')
+        script(src='js/chunk.js')
+        script(src='js/chunk-manager.js')
+        script(src='js/app.js')

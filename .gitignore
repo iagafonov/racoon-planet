@@ -139,3 +139,11 @@ rebel.xml
 *.log
 *.sql
 *.sqlite
+
+# dub #
+#######
+.dub
+docs.json
+__dummy.html
+*.o
+*.obj
